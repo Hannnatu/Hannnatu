@@ -2,10 +2,9 @@
 
 Hi there 👋  
 
-I’m passionate about transforming data into meaningful insights that drive smarter decisions.  
-I enjoy exploring patterns, building analytical projects, and continuously sharpening my technical skills.
+I’m  very passionate about transforming data into meaningful insights that drive smarter decisions. I enjoy exploring patterns, building projects from beginner level, and continuously sharpening my technical skills.
 
-### 🚀 What I’m Currently Focused On
+### 🚀 And I’m Currently Focused On
 - 🐍 Strengthening my Python skills for data analysis & automation  
 - 📊 Advancing in Tableau, Excel & Power BI  
 - 🛠 Building hands-on projects to deepen my analytical thinking  
